@@ -1,0 +1,4 @@
+turbo-bear
+==========
+
+sudoku solver
